@@ -1,7 +1,7 @@
 # Smart Restaurant Ordering System 🏪
 Bachelor’s Thesis / Capstone Project – 2021
 
-https://github.com/user-attachments/assets/631611ce-1f24-4a3a-bef0-4d7dbd6cc06f
+https://github.com/user-attachments/assets/5bef52d2-2c3f-4f88-bfa5-2ac59622c7a0
 
 ## 📘 Overview
 
