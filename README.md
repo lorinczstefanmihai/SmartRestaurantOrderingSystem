@@ -1,4 +1,4 @@
-🏪 #Smart Restaurant Ordering System
+#Smart Restaurant Ordering System 🏪
 
 Bachelor’s Thesis / Capstone Project – 2021
 
