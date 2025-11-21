@@ -67,8 +67,9 @@ Communication: Wireless UDP protocol connecting all components.
 
 ## Prototyping
 https://github.com/user-attachments/assets/820842fb-1436-4755-878a-bd1a2ce636ed
-![Image](https://github.com/user-attachments/assets/903852f8-549b-4054-87ca-2ee9da365cd8)
-![Image](https://github.com/user-attachments/assets/e20cea39-6704-4892-9897-838b06c14026)
+<img src="https://github.com/user-attachments/assets/903852f8-549b-4054-87ca-2ee9da365cd8" alt="Image 1" width="400"/>
+<img src="https://github.com/user-attachments/assets/e20cea39-6704-4892-9897-838b06c14026" alt="Image 2" width="400"/>
+
 
 https://github.com/user-attachments/assets/19fa8390-631b-4786-8e16-68bdbb80c1a7
 
