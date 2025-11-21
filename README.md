@@ -13,7 +13,7 @@ The complete system consists of three main components:
 
 3. Windows Application – displayed on a large screen in the dining area for centralized monitoring.
 
-🛠️ Key Tasks & Technologies
+## 🛠️ Key Tasks & Technologies
 ## Hardware
 
 • PCB Design using EasyEDA, including component selection and microcontroller choice (Espressif ESP series).
