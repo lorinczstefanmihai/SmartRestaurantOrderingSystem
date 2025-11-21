@@ -7,58 +7,58 @@ This project implements a smart restaurant ordering system designed to reduce wa
 
 The complete system consists of three main components:
 
-Table Call Button – placed on the client’s table for calling a waiter.
+1. Table Call Button – placed on the client’s table for calling a waiter.
 
-Waiter’s Watch Display – shows which table requires service and waiting time.
+2. Waiter’s Watch Display – shows which table requires service and waiting time.
 
-Windows Application – displayed on a large screen in the dining area for centralized monitoring.
+3. Windows Application – displayed on a large screen in the dining area for centralized monitoring.
 
 🛠️ Key Tasks & Technologies
 Hardware
 
-PCB Design using EasyEDA, including component selection and microcontroller choice (Espressif ESP series).
+• PCB Design using EasyEDA, including component selection and microcontroller choice (Espressif ESP series).
 
-3D Design & Printing using SolidWorks, with full dimensional drawings and tolerances.
+• 3D Design & Printing using SolidWorks, with full dimensional drawings and tolerances.
 
 Software
 
-Windows Application Development: Visual Studio, C#, Windows Forms.
+• Windows Application Development: Visual Studio, C#, Windows Forms.
 
-Microcontroller Firmware: programming for both table button and waiter’s watch.
+• Microcontroller Firmware: programming for both table button and waiter’s watch.
 
 Communication: Wireless UDP protocol connecting all components.
 
 Testing
 
-Full system functionality testing.
+• Full system functionality testing.
 
-Wireless performance verification.
+• Wireless performance verification.
 
-Battery analysis for reliability and endurance.
+• Battery analysis for reliability and endurance.
 
 🎯 Features
 
-Real-time table service notifications.
+• Real-time table service notifications.
 
-Wireless communication between devices.
+• Wireless communication between devices.
 
-Centralized monitoring via Windows app.
+• Centralized monitoring via Windows app.
 
-Custom-designed and 3D-printed hardware.
+• Custom-designed and 3D-printed hardware.
 
-Self-designed PCB and embedded firmware.
+• Self-designed PCB and embedded firmware.
 
 🚀 Skills & Experience Gained
 
-Embedded system design and PCB development
+• Embedded system design and PCB development
 
-Wireless communication and microcontroller programming
+• Wireless communication and microcontroller programming
 
-3D CAD design and 3D printing
+• 3D CAD design and 3D printing
 
-Windows Forms application development (C#)
+• Windows Forms application development (C#)
 
-Full-system testing and battery analysis
+• Full-system testing and battery analysis
 
 
 📸 Images / Videos ( from prototyping to final version )
