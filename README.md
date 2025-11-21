@@ -36,7 +36,7 @@ Communication: Wireless UDP protocol connecting all components.
 
 • Battery analysis for reliability and endurance.
 
-🎯 Features
+## 🎯 Features
 
 • Real-time table service notifications.
 
@@ -48,7 +48,7 @@ Communication: Wireless UDP protocol connecting all components.
 
 • Self-designed PCB and embedded firmware.
 
-🚀 Skills & Experience Gained
+## 🚀 Skills & Experience Gained
 
 • Embedded system design and PCB development
 
@@ -61,6 +61,6 @@ Communication: Wireless UDP protocol connecting all components.
 • Full-system testing and battery analysis
 
 
-📸 Images / Videos ( from prototyping to final version )
+## 📸 Images / Videos ( from prototyping to final version )
 
 
